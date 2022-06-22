@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ontoFAST"]
+	path = ontoFAST
+	url = https://github.com/sergeitarasov/ontofast
+	shallow = true
+	registered = true
